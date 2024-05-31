@@ -79,7 +79,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone 
+$  git clone https://github.com/nahid181/E-commerce-web-app-using-Python-Django.git
 ```
 
 Then, Enter the project
